@@ -1,6 +1,0 @@
-streamlit>=1.40
-kiteconnect>=5.0.1
-pandas>=2.1
-numpy>=1.26
-scikit-learn>=1.4
-plotly>=5.20
